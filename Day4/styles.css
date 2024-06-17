@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    padding: 20px;
+}
+ 
+#header{
+    background-color: gray;
+    color: rgb(240, 255, 247);
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#newsblogid {
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.specificBlog{
+    display: flex;
+    margin: 5px;
+}
+
+.specificBlog > .blogright > h4 {
+    padding: 10px;
+    color: plum;
+}
+.specificBlog > .blogright > p {
+    padding-left: 10px;
+}
+
+.specificBlog > .blogright > a {
+    padding-left: 10px;
+}
+
+/* #title1{
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
